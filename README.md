@@ -1,7 +1,7 @@
 ### Hello and welcome! 👋
 I am a student at Oklahoma State University developing many projects for fun. Check out my latest one [here](https://github.com/GagePielsticker/Express-API-Boilerplate)!
 
-## Tech stack
+## Code stack
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -12,7 +12,6 @@ I am a student at Oklahoma State University developing many projects for fun. Ch
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![IntelliJ](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij&logoColor=007ACC)
-![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi&logoColor=007ACC)
 
 ![GitHub followers](https://img.shields.io/github/followers/gagepielsticker?style=social)
 
