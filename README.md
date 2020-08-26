@@ -12,6 +12,7 @@ I am a student at Oklahoma State University developing many projects for fun. Ch
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![IntelliJ](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij&logoColor=007ACC)
+![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=powerbi&logoColor=007ACC)
 
 ![GitHub followers](https://img.shields.io/github/followers/gagepielsticker?style=social)
 
