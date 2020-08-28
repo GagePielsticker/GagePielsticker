@@ -3,6 +3,7 @@ I am a student at Oklahoma State University developing many projects for fun. Ch
 
 # Socials
 Discord: uber#0001
+
 Steam: /id/uberthegod
 
 ## Code stack
