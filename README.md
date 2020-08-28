@@ -4,7 +4,7 @@ I am a student at Oklahoma State University developing many projects for fun. Ch
 # Socials
 **Discord:** uber#0001
 
-**Steam:** /id/uberthegod
+**Steam:** [/id/uberthegod](https://steamcommunity.com/id/uberthegod)
 
 ## Code stack
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
