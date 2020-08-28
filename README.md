@@ -2,9 +2,9 @@
 I am a student at Oklahoma State University developing many projects for fun. Check out my latest one [here](https://github.com/GagePielsticker/Express-API-Boilerplate)!
 
 # Socials
-Discord: uber#0001
+**Discord:** uber#0001
 
-Steam: /id/uberthegod
+**Steam:** /id/uberthegod
 
 ## Code stack
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
