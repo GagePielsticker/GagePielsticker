@@ -25,6 +25,8 @@ I am a student at Oklahoma State University developing many projects for fun. Ch
 ![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell&logoColor=007ACC)
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat)
 
+[Familiar JS Libraries](https://github.com/GagePielsticker/javascript-library-list)
+
 ![GitHub followers](https://img.shields.io/github/followers/gagepielsticker?style=social)
 
 
