@@ -16,7 +16,7 @@ I am a student at Oklahoma State University developing many projects for fun. Ch
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Apache Cassandra](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=apache)
+![Apache Cassandra](https://img.shields.io/badge/-ApacheCassandra-333333?style=flat&logo=apache)
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
