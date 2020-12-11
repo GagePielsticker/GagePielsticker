@@ -6,6 +6,8 @@ I am a student at Oklahoma State University developing many projects for fun. Ch
 
 **Steam:** [/id/uberthegod](https://steamcommunity.com/id/uberthegod)
 
+**LinkedIn:** [here](https://www.linkedin.com/in/james-pielsticker/) - hardly ever check this thing
+
 ## Code stack
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
