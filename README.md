@@ -1,5 +1,5 @@
 # Hello and welcome! 👋
-I am a student at Oklahoma State University developing many projects for fun. Check out my latest one [here](https://github.com/GagePielsticker/Express-API-Boilerplate)!
+I am a student at Oklahoma State University developing many projects for fun. Check out my latest one [here](https://github.com/GagePielsticker/Express-JWT-Boilerplate)!
 
 # Socials
 **Discord:** uber#0001 - add me here if you want to talk
